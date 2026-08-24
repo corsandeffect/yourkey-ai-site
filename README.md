@@ -46,7 +46,7 @@ When explicitly activating the **Google Search Grounding** feature within Gemini
 
 ### 4. Third-Party Disclaimers
 Because you supply your own API keys, your prompt data and generation habits fall under the respective developer terms of service and data privacy agreements of the platforms you connect to:
-* [OpenAI Developer](https://openai.com)
+* [OpenAI](https://openai.com)
 * [Anthropic Claude](https://anthropic.com)
 * [Google Gemini](https://google.com)
 
