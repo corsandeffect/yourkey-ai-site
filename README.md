@@ -17,8 +17,8 @@ A secure, privacy-first, direct-to-API sidebar assistant for Google Chrome. Brin
 
 ## 🛠️ Getting Started
 1. Click 'Add to Chrome' and pin **YourKey AI** to your toolbar.
-2. In the panel, open the **API Settings (⚙️)**, securely paste your personal API keys (OpenAI, Claude, and/or Gemini) and click 'Save Settings'.
-3. Select your active model from the main dropdown menu, and start chatting!
+2. In the panel, open the **API Settings (⚙️)**, securely paste your personal API keys (OpenAI, Claude, and/or Gemini) and click **Save Settings**.
+3. Select your **active model** from the main dropdown menu, and start chatting!
 
 ---
 
@@ -46,9 +46,9 @@ When explicitly activating the **Google Search Grounding** feature within Gemini
 
 ### 4. Third-Party Disclaimers
 Because you supply your own API keys, your prompt data and generation habits fall under the respective developer terms of service and data privacy agreements of the platforms you connect to:
-* [OpenAI Developer Privacy Policy](https://openai.com)
-* [Anthropic Claude Privacy Policy](https://anthropic.com)
-* [Google Gemini Privacy Policy](https://google.com)
+* [OpenAI Developer](https://openai.com)
+* [Anthropic Claude](https://anthropic.com)
+* [Google Gemini](https://google.com)
 
 ### 5. Policy Updates
 Any future revisions to this document will be updated transparently on this landing page. Contact us at the support email provided above for code review inquiries.
