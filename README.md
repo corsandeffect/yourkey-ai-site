@@ -52,3 +52,11 @@ Because you supply your own API keys, your prompt data and generation habits fal
 
 ### 5. Policy Updates
 Any future revisions to this document will be updated transparently on this landing page. Contact us at the support email above for code review inquiries.
+
+---
+
+## 🏢 *** UPCOMING PRIVATE BETA: YOURKEY AI FOR TEAMS ***
+
+Need to centrally manage and distribute API keys for a group of employees? We are launching a secure management layer for corporate workspaces.
+
+Request early access by applying to our [Private Beta](https://tally.so/r/44V6oO)
