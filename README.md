@@ -55,7 +55,7 @@ Any future revisions to this document will be updated transparently on this land
 
 ---
 
-## 🏢 *** Upcoming Private Beta: YourKey AI for Teams ***
+## 🏢 `***` Upcoming Private Beta: YourKey AI for Teams `***`
 
 Do you need to centrally manage and distribute API keys for a group of employees? We are launching a secure management layer for corporate workspaces.
 
