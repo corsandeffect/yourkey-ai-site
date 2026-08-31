@@ -57,6 +57,6 @@ Any future revisions to this document will be updated transparently on this land
 
 ## 🏢 \*\*\* Upcoming Private Beta: YourKey AI for Teams \*\*\*
 
-Do you need to centrally manage and distribute API keys for a group of employees? We are launching a secure management layer for corporate workspaces.
+Need to centrally manage and distribute API keys for a group of employees? We are launching a secure management layer for corporate workspaces.
 
-You can request early access by applying to our Private Beta [here](https://tally.so/r/44V6oO).
+Request early access by applying to our Private Beta [here](https://tally.so/r/44V6oO).
