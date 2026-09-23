@@ -22,7 +22,7 @@ A privacy-first, direct-to-API sidebar assistant for Google Chrome. Bring your o
 
 3. Click your **'Select Active Model'** from the dropdown menu.
 
-4. Click 'Save Settings' and start chatting!
+4. Click **'Save Settings'** and start chatting!
 
 Note: Users must input their own personal API keys (OpenAI, Claude, and/or Gemini) to establish connectivity. New users can sign up for credits directly through these providers.
 
