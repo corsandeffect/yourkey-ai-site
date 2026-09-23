@@ -1,6 +1,6 @@
 # YourKey AI: OpenAI, Claude & Gemini Side Panel
 
-A secure, privacy-first, direct-to-API sidebar assistant for Google Chrome. Bring your own API keys and chat with the world's most powerful AI models inside a dark-themed client completely local-to-device.
+A privacy-first, direct-to-API sidebar assistant for Google Chrome. Bring your own API keys and chat with the world's most powerful AI models inside a dark-themed client completely local-to-device.
 
 ---
 
@@ -20,11 +20,11 @@ A secure, privacy-first, direct-to-API sidebar assistant for Google Chrome. Brin
 
 2. Open **YourKey AI**, click the gear icon (⚙️ - **API Settings**), securely paste your personal API keys (OpenAI, Claude, and/or Gemini).
 
-3. Click your chosen AI model from the dropdown menu - **Select Active Model**.
+3. Click your **'Select Active Model'** from the dropdown menu.
 
 4. Click 'Save Settings' and start chatting!
 
-Note: Users must input their own personal API keys (OpenAI, Claude, or Gemini) to establish connectivity. New users can sign up for credits directly through these providers.
+Note: Users must input their own personal API keys (OpenAI, Claude, and/or Gemini) to establish connectivity. New users can sign up for credits directly through these providers.
 
 💡 Tip: Gemini models are free key friendly. OpenAI and Claude require paid key credits, though some OpenAI models may grant temporary free key access.
 
