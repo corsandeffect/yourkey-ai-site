@@ -17,8 +17,16 @@ A secure, privacy-first, direct-to-API sidebar assistant for Google Chrome. Brin
 
 ## 🛠️ Getting Started
 1. Click 'Add to Chrome' and pin **YourKey AI** to your toolbar.
-2. In the panel, open the **API Settings (⚙️)**, securely paste your personal keys (OpenAI, Claude, and/or Gemini) and click **Save Settings**.
-3. Select your **active model** from the main dropdown menu, and start chatting!
+
+2. Open **YourKey AI**, click the gear icon (⚙️ - **API Settings**), securely paste your personal API keys (OpenAI, Claude, and/or Gemini).
+
+3. Click your chosen AI model from the dropdown menu - **Select Active Model**.
+
+4. Click 'Save Settings' and start chatting!
+
+Note: Users must input their own personal API keys (OpenAI, Claude, or Gemini) to establish connectivity. New users can sign up for credits directly through these providers.
+
+💡 Tip: Gemini models are free key friendly. OpenAI and Claude require paid key credits, though some OpenAI models may grant temporary free key access.
 
 ---
 
