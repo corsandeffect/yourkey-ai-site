@@ -52,3 +52,5 @@ Because you supply your own API keys, your prompt data and generation habits fal
 
 ### 5. Policy Updates
 Any future revisions to this document will be updated transparently on this landing page. Contact us at the support email above for code review inquiries.
+
+---
