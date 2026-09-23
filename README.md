@@ -30,33 +30,25 @@ If you encounter any bugs, have feature requests, or need technical assistance, 
 
 ## 🔒 Privacy Policy
 
-### 1. Data Collection & Telemetry
-We **do not collect, track, or store** any personal data, prompt configurations, browser history, or chat history on external databases. All user-generated text inputs, credential assets, and conversation history records remain strictly under the direct custody and exclusive control of the user.
+### 1. Data Handling & Privacy Declarations
+To function, this extension processes and handles **Authentication information** (API Keys), **Personal communications** (chat history) and **Website content** (user-highlighted text). We do not collect, track, or store any of this data on external databases or developer servers. All user-generated text inputs, credential assets, and conversation history records remain strictly within your browser's local ecosystem.
 
 ### 2. API Key Security & Network Sandbox
 * **Local Storage:** Keys are saved encrypted on your device using the browser's native `chrome.storage.local` API sandbox structure.
 * **Network Sandbox:** The extension operates under a strict Content Security Policy (`connect-src`). It cannot send information to unauthorized third-party trackers or external tracking endpoints.
 * **Direct Transmission:** Your keys and prompt text travel exclusively to the official endpoints:
-  * OpenAI (`https://openai.com*`)
-  * Anthropic Claude (`https://anthropic.com*`)
-  * Google Gemini (`https://googleapis.com*`)
+  * OpenAI (`https://api.openai.com*`)
+  * Anthropic Claude (`https://api.anthropic.com*`)
+  * Google Gemini (`https://generativelanguage.googleapis.com*`)
 
 ### 3. Google Search Grounding Note
 When explicitly activating the **Google Search Grounding** feature within Gemini settings, your specific prompt text is transmitted directly to Google Search index routers to pull real-time data into your chat response. No personal identifiers or API keys are exposed during this search.
 
 ### 4. Third-Party Disclaimers
 Because you supply your own API keys, your prompt data and generation habits fall under the respective developer terms of service and data privacy agreements of the platforms you connect to:
-* [OpenAI](https://openai.com)
-* [Anthropic Claude](https://anthropic.com)
-* [Google Gemini](https://google.com)
+* [OpenAI](https://openai.com/policies/row-privacy-policy/)
+* [Anthropic Claude](https://www.anthropic.com/legal/privacy)
+* [Google Gemini](https://support.google.com/gemini/answer/13594961?hl=en)
 
 ### 5. Policy Updates
 Any future revisions to this document will be updated transparently on this landing page. Contact us at the support email above for code review inquiries.
-
----
-
-## 🏢 \*\*\* Upcoming Private Beta: YourKey AI for Teams \*\*\*
-
-Need to centrally manage and distribute API keys for a group of employees? We are launching a secure management layer for corporate workspaces.
-
-Request early access by applying to our Private Beta [here](https://tally.so/r/44V6oO).
