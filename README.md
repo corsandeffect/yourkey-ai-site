@@ -6,11 +6,17 @@ A privacy-first, direct-to-API side panel assistant for Google Chrome. Bring you
 
 ## 🚀 Key Features
 * **Multi-Provider Hub:** Seamlessly switch between OpenAI, Anthropic Claude, and Google Gemini with dynamic UI visual indicator badges.
+  
 * **Zero-Host Privacy:** Local background protocols guarantee sensitive text ingestions never touch an external middleman server.
+  
 * **Smart Right-Click Context Menus:** Highlight text on any page, right-click and inject it instantly to your panel setup without heavy host permissions.
+  
 * **Google Search Grounding:** Toggle live web searches for Gemini models, backed by an inline automated safety status bar warning layout.
+  
 * **Markdown Conversational Export:** Save and download your full logs locally to your machine as clean `.md` files via the **📥 Export Chat** button.
+  
 * **Volatile State Protection:** Never lose your work. Active session memory automatically backs up locally during accidental side panel closures or sudden browser restarts.
+  
 * **Hyper-Lightweight Build:** Pure native JavaScript with zero bloated external framework dependencies for lightning-fast performance.
 
 ---
@@ -43,7 +49,9 @@ To function, this extension processes and handles **Authentication information**
 
 ### 2. API Key Security & Network Sandbox
 * **Local Storage:** Keys are saved encrypted on your device using the browser's native `chrome.storage.local` API sandbox structure.
+
 * **Network Sandbox:** The extension operates under a strict Content Security Policy (`connect-src`). It cannot send information to unauthorized third-party trackers or external tracking endpoints.
+
 * **Direct Transmission:** Your keys and prompt text travel exclusively to the official endpoints:
   * OpenAI (`https://api.openai.com*`)
   * Anthropic Claude (`https://api.anthropic.com*`)
