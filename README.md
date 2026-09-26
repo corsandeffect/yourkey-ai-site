@@ -1,6 +1,6 @@
 # YourKey AI: OpenAI, Claude & Gemini Side Panel
 
-A privacy-first, direct-to-API sidebar assistant for Google Chrome. Bring your own API keys and chat with the world's most powerful AI models inside a dark-themed client completely local-to-device.
+A privacy-first, direct-to-API side panel assistant for Google Chrome. Bring your own API keys and chat with the world's most powerful AI models inside a dark-themed client completely local-to-device.
 
 ---
 
